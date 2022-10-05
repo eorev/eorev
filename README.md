@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓Student at the University of Delaware<br><br>👷Software Engineer<br><br>🔨Breaking applications on the side
 
 
