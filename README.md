@@ -1,8 +1,6 @@
 # About Me:
 🎓Student at the University of Delaware<br><br>👷Software Engineer<br><br>🔨Breaking applications on the side
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ethan-orevillo) 
 
 # 💻 Tech Stack:
