@@ -5,3 +5,10 @@
 
 # Currently?
 > Rustling...
+
+## Tech Stack
+
+- [Next.js](https://nextjs.org/) 🌐
+- [TypeScript](https://www.typescriptlang.org/) 🟦
+- [Elixir](https://elixir-lang.org/) ⚗️
+- [Tailwind CSS](https://tailwindcss.com/) 🎨
