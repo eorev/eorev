@@ -8,4 +8,4 @@
 
 ## Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=html,react,tailwind,ts,nextjs,elixir,vercel,vscode,mongodb&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,react,tailwind,ts,elixir,nextjs,vercel,vscode,mongodb&perline=3)](https://skillicons.dev)
